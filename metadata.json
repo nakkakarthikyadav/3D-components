@@ -1,0 +1,6 @@
+{
+  "name": "SolarMPPT 150W — ESP32 Circuit & Cost Workbench",
+  "description": "Engineering schematic, ESP32 pinout wiring, live MPPT I-V curve simulator, and itemized project cost breakdown for a 150Wp polycrystalline solar MPPT charge controller.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
